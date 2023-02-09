@@ -28,26 +28,36 @@
 - [konsole](https://konsole.kde.org/)
 - [xfce4-terminal](https://docs.xfce.org/apps/xfce4-terminal/start)
 - [terminator](https://gnome-terminator.org/)
-- guake
-- tilix
+- [guake](http://guake-project.org/index.html)
+- [tilix](https://github.com/gnunn1/tilix)
 
 # Terminal Software
 
-- ani-cli
-- 2048
-- cmatrix
-- bashtop
-- neofetch
+- [2048](https://github.com/tiehuis/2048-cli)
+- [cmatrix](https://github.com/abishekvashok/cmatrix)
+- [bashtop](https://github.com/aristocratos/bashtop)
+- [neofetch](https://github.com/dylanaraps/neofetch)
 
 # Shell
 
-- zsh
-- bash
+- [zsh](https://zsh.sourceforge.io/)
+- [bash](https://www.gnu.org/software/bash/)
 
 # Browser
 
-- Chromium
-- Firefox
-- Firefox-Nightly
+- [Chromium](https://www.chromium.org/Home/)
+- [Fireox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox-Nightly](https://www.mozilla.org/en-US/firefox/111.0a1/releasenotes/)
+- [Brave](https://brave.com/)
 
-# Desktop Manager
+# Desktop Environment
+
+- [XFCE](https://www.xfce.org/)
+- [GNOME](https://www.gnome.org/)
+- [KDE Plasma](https://kde.org/plasma-desktop/)
+- [MATE](https://mate-desktop.com/)
+- [LXDE](https://www.lxde.org/)
+- [Enlightenment](https://www.enlightenment.org/)
+- [Deepin](https://www.deepin.org/en/)
+- [LXQT](https://lxqt-project.org/)
+- [Cinnamon](https://cinnamon-spices.linuxmint.com/)
