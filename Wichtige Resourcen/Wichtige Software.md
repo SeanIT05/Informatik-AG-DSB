@@ -21,6 +21,7 @@
 - [dwm](http://dwm.suckless.org/)
 - [i3](https://i3wm.org/)
 - [openbox](http://openbox.org/wiki/Main_Page)
+- [dwm](https://dwm.suckless.org/)
 
 # Terminal Emulator
 
