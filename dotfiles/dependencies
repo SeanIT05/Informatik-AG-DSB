@@ -1,0 +1,19 @@
+GENTOO
+This is just for my own understanding. Copying everything is not recommended!
+
+xsetroot
+X
+hack font
+dmenu
+dwm
+alacritty
+noto emoji font (google emoji theme)
+(dunst)=notifications
+(brain)
+oh my bash ("sexy" theme)
+nitrogen/feh I use feh nitrogen for some of my setups...
+alsa-utils (only emerge on binary kernel) custom kernel needs activation
+video drivers (nvidia/intel)
+bashtop
+neofetch
+Nerd Font Symbols
