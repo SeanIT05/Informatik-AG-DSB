@@ -190,3 +190,110 @@
         #pass
     #else:
         #print(i)
+
+# Lists
+
+#food = ["pizza","hamburger","spaghetti","sushi"]
+
+#food[0] = "Borgir"
+
+#print(food[0])
+
+#food.append("ice cream")
+#food.remove("sushi")
+#food.pop()
+#food.insert(0,"cake")
+#food.sort()
+#food.clear()
+
+#for x in food:
+    #print(x)
+
+# 2D Lists
+
+#drinks = ["coffee","soda","tea"]
+#dinner = ["pizza","hamburger","hotdog"]
+#dessert = ["cake","ice cream"]
+
+#food = [drinks,dinner,dessert]
+
+#print(food[1][2])
+
+# Tuples
+
+#student = ("Sean",21,"male")
+
+#print(student.count("Sean"))
+#print(student.index("male"))
+
+#for x in student:
+    #print(x)
+
+#if "Sean" in student:
+    #print("Hello Sean!")
+
+
+# Sets
+
+#utensils = {"hammer","knife","fork","spoon","spoon","spoon"}
+#dishes = {"bowl","plate","cup","knife"}
+
+#utensils.add("napkin")
+#utensils.remove("fork")
+#utensils.clear()
+#utensils.update(dishes)
+#dinner_table = utensils.union(dishes)
+
+#print(utensils.difference(dishes)) # Roles can be reversed!
+#print(utensils.intersection(dishes))
+
+#for x in dinner_table:
+    #print(x)
+
+
+# Dictionary
+
+#capitals = {'USA':'Washington DC',
+             #'India':'New Dehli', 
+             #'China':'Beijing',
+             #'Russia':'Moscow'}
+
+#capitals.update({'Germany':'Berlin'})
+#capitals.update({'USA':'Las Vegas'})
+#capitals.pop('China')
+#capitals.clear()
+
+#print(capitals['Germany'])
+#print(capitals.get('Germany')) #Safer Way!
+#print(capitals.keys())
+#print(capitals.values())
+#print(capitals.items())
+
+#for key,value in capitals.items():
+    #print(key, value)
+
+
+# Index Operator
+
+#name = "john doe!"
+
+#if(name[0].islower()):
+    #name = name.capitalize()
+
+#first_name = name[:4].upper()
+#last_name = name[4:].lower()
+#last_character = name[-1]
+
+#print(first_name)
+#print(last_name)
+#print(last_character)
+
+# Functions
+
+#def hello():
+    #print("hello! "+name)
+    #print("Have a nice day!")
+
+#hello("Sean")
+
+
