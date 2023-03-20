@@ -335,7 +335,8 @@ Ich danke folgenden YouTubern, von denen ich sehr viel über Informatik, Linux, 
 - [Github](https://github.com/)
 - [ArchWiki](https://wiki.archlinux.org/)
 - [GentooWiki](https://wiki.gentoo.org/wiki/Main_Page)
-- 
+
+
 ![](https://i.imgur.com/xlImqq2.jpg)
 
 ---
