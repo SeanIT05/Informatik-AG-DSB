@@ -104,7 +104,7 @@ Hier musst du den 3 verschiedenen Partitions "Filesystems zuordnen"...
 ```
 mkfs.fat -F32 /dev/YOURDEVICE1
 
-mkswap        /dev/YOURDEVICE1    (Swap System machen)
+mkswap        /dev/YOURDEVICE2    (Swap System machen)
 
 swapon        /dev/YOURDEVICE2    (Swap aktivieren. Aktiviere das in der gleichen
                            Partition, wo du "mkswap" gemacht hast.)
