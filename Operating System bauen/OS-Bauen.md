@@ -97,7 +97,7 @@ w    (Änderungen speichern!!!)
 ```
 Wieso muss ich die 3. nicht ändern?[^3]
 
-# File System machen
+# File System generieren
 
 Hier musst du den 3 verschiedenen Partitions "Filesystems zuordnen"...
 
