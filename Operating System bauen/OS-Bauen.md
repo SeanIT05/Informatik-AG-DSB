@@ -300,14 +300,14 @@ Falls du soweit gekommen bist ohne Fehler, dann gratuliere ich dir. Du hast erfo
 
 ## Was du alles gelernt hast
 
-- [ ] Wie man ein Disk aufteilt
-- [ ] Wie man ein Filesystem mounted
-- [ ] Wie man mithilfe von pacman software installiert
-- [ ] Wie man chroot verwendet
-- [ ] FSTAB generieren
-- [ ] Hostname setzen
-- [ ] GRUB installieren
-- [ ] Benutzer erstellen und ihnen root Rechte geben
+- [x] Wie man ein Disk aufteilt
+- [x] Wie man ein Filesystem mounted
+- [x] Wie man mithilfe von pacman software installiert
+- [x] Wie man chroot verwendet
+- [x] FSTAB generieren
+- [x] Hostname setzen
+- [x] GRUB installieren
+- [x] Benutzer erstellen und ihnen root Rechte geben
 
 # Ich danke
 
