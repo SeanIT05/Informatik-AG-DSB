@@ -1,0 +1,42 @@
+# Presentation IT AG Sean 
+# Written in C 
+# Source dependent - JS Free, Libre
+
+
+Compiler (GCC)
+
+@grace-hopper-1-3696984884.jpg
+
+Es gibt Distros welche Packets selbst compilen
+
+@gentoo.png
+
+(Das Compilen erklären)
+
+Jetzt werde ich 2 Programme compilen. 
+Meistens wird es in C/C++ gemacht.
+
+@gcc.png
+
+Ohne einen Compiler gibt es keine 
+"menschlichen" Programmiersprachen.
+
+@pyr.jpg
+
+/etc/portage/make.conf
+Deswegen haben viele Menschen "Angst" vor z.B. Gentoo
+
+@ripper.jpg
+
+@ram.jpg
+
+Ram ist eigentlich nur Speicherplatz
+Es ist nicht permanent verfügbar
+Ein Compiler kann "Pipes" benutzen
+
+Diese Präsentation wurde in C geschrieben
+Musste auch compiled werden
+Sie ist extrem minimal 
+(config zeigen)
+
+Kernel Time!
